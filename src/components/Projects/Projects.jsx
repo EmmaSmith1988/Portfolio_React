@@ -5,7 +5,8 @@ import Button from '../Button/Button'
 const Projects = () => {
   return (
     <div>
-      <Button />
+      <Button buttonText="See code"/>
+      <Button buttonText="See website"/>
     </div>
   )
 }

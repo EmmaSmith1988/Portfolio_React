@@ -1,0 +1,8 @@
+@use "../../assets/sass/_variables.scss" as *;
+
+.button {
+  color: $color-primary;
+  background-color: $color-secondary;
+  border: none;
+  border-radius: 20px;
+}

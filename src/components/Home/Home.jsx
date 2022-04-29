@@ -5,8 +5,8 @@ import Intro from '../Intro/Intro'
 
 const Home = () => {
   return (
-    <div>
-      <Nav />
+    <div className='home'>
+      <Nav name="Emma Smith" link1="Projects" link2="Experience" link3="Skills" link4="Contact"/>
       <Intro />
       <Main />
     </div>

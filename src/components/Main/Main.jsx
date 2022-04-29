@@ -13,7 +13,7 @@ const Main = () => {
       <Experience />
       <Skills />
       <About />
-      <Button />
+      <Button buttonText="Back to top"/>
     </div>
   )
 }

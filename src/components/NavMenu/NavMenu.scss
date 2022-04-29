@@ -1,0 +1,34 @@
+@use "../../assets/sass/_variables.scss" as *;
+
+.navMenu {
+  background-color: rgba(black, 0.4);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  z-index: 5;
+  &__content {
+    position: relative;
+    background-color: $color-secondary;
+    width: 20rem;
+    border-radius: 15px;
+    height: 50vh;
+  }
+  &__links {
+    color: $color-primary;
+    list-style: none;
+    text-align: center;
+  }
+  &__link {
+    padding: 20px;
+  }
+  &__cross {
+    color: $color-primary;
+    background-color: $color-primary;
+    float: right;
+  }
+}

@@ -5,7 +5,7 @@ import Button from '../Button/Button'
 const Experience = () => {
   return (
     <div>
-      <Button />
+      <Button buttonText="See my CV for more" />
     </div>
   )
 }
