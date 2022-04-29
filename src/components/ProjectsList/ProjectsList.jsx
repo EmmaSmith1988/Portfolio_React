@@ -1,9 +1,12 @@
 import React from 'react'
 import './ProjectsList.scss'
+import Projects from '../Projects/Projects'
 
 const ProjectsList = () => {
   return (
-    <div>ProjectsList</div>
+    <div>
+      <Projects />
+    </div>
   )
 }
 

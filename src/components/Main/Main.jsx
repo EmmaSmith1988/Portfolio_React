@@ -1,9 +1,20 @@
 import React from 'react'
 import './Main.scss'
+import ProjectsList from '../ProjectsList/ProjectsList'
+import Experience from '../Experience/Experience'
+import About from '../About/About'
+import Skills from '../Skills/Skills'
+import Button from '../Button/Button'
 
 const Main = () => {
   return (
-    <div>Main</div>
+    <div>
+      <ProjectsList />
+      <Experience />
+      <Skills />
+      <About />
+      <Button />
+    </div>
   )
 }
 

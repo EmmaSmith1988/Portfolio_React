@@ -1,9 +1,12 @@
 import React from 'react'
 import './Experience.scss'
+import Button from '../Button/Button'
 
 const Experience = () => {
   return (
-    <div>Experience</div>
+    <div>
+      <Button />
+    </div>
   )
 }
 

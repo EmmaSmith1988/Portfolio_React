@@ -1,9 +1,12 @@
 import React from 'react'
 import './App.scss'
+import Home from "./components/Home/Home";
 
 const App = () => {
   return (
-    <div>Hello world</div>
+    <div className='app'>
+      <Home />
+    </div>
   )
 }
 

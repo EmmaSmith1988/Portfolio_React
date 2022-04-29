@@ -1,9 +1,12 @@
 import React from 'react'
 import './About.scss'
+import Button from '../Button/Button'
 
 const About = () => {
   return (
-    <div>About</div>
+    <div>
+      <Button />
+    </div>
   )
 }
 
