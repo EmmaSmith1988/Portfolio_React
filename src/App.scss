@@ -1,1 +1,7 @@
+@use "./assets/sass/_variables.scss" as *;
 
+* {
+  box-sizing: border-box;
+  font-family: $font-primary;
+  color: $color-primary;
+}

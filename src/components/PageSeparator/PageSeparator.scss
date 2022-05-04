@@ -1,0 +1,12 @@
+@use "../../assets/sass/_variables.scss" as *;
+
+.line {
+  padding: 0 20px;
+  width: 100%;
+  margin-bottom: 40px;
+}
+.heading {
+  text-align: left;
+  padding-left: 40px;
+  font-size: 30px;
+}

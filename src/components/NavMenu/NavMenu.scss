@@ -19,7 +19,6 @@
     height: 50vh;
   }
   &__links {
-    color: $color-primary;
     list-style: none;
     text-align: center;
   }
@@ -27,7 +26,6 @@
     padding: 20px;
   }
   &__cross {
-    color: $color-primary;
     background-color: $color-primary;
     float: right;
   }

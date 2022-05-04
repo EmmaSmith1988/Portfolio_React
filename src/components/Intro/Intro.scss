@@ -1,0 +1,18 @@
+@use "../../assets/sass/_variables.scss" as *;
+
+.intro {
+  height: 80vh;
+  text-align: center;
+  padding: 80px 20px 0px 20px;
+  &__image {
+    height: 40%;
+    // width: 35%;
+    display: block;
+    margin: auto;
+    border-radius: 30px;
+    box-shadow: 2px 2px 5px 2px gray;
+  }
+  &__button {
+    display: none;
+  }
+}

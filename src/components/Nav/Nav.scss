@@ -1,10 +1,10 @@
 @use "../../assets/sass/_variables.scss" as *;
 
 .nav {
+  position: sticky;
+  top: 0;
   display: flex;
   justify-content: space-between;
-  color: $color-primary;
-  font-family: $font-primary;
   font-size: 20px;
   background-image: linear-gradient(to right, $gradient1 , $gradient2, $gradient3, $gradient4);
   padding: 0px 20px;

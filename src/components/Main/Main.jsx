@@ -8,7 +8,7 @@ import Button from '../Button/Button'
 
 const Main = () => {
   return (
-    <div>
+    <div className='main'>
       <ProjectsList />
       <Experience />
       <Skills />

@@ -1,8 +1,16 @@
 @use "../../assets/sass/_variables.scss" as *;
 
 .button {
+  &:hover {
+    cursor: pointer;
+  }
   color: $color-primary;
   background-color: $color-secondary;
   border: none;
-  border-radius: 20px;
+  border-radius: 25px;
+  margin: 20px;
+  padding: 15px;
+  text-decoration: none;
+  font-size: 18px;
+  box-shadow: 2px 2px 5px 1px gray;
 }

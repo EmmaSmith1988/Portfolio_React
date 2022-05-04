@@ -1,0 +1,28 @@
+@use "../../assets/sass/_variables.scss" as *;
+
+.project {
+  &__arrow {
+    color: $color-primary;
+    width: 3em;
+    &:hover {
+      cursor: pointer;
+    }
+  }
+  &__carousel {
+    display: flex;
+    align-items: center;
+    padding: 50px;
+    justify-content: center;
+  }
+  &__image {
+    width: 20em;
+    border-radius: 15px;
+    box-shadow: 2px 2px 5px 2px gray;
+    margin: 0 20px;
+  }
+  &__info {
+    margin: 30px auto;
+    width: 85%;
+    padding-bottom: 30px;
+  }
+}

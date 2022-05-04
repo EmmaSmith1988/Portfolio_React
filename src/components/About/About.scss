@@ -1,0 +1,36 @@
+@use "../../assets/sass/_variables.scss" as *;
+
+.about {
+  height: 90vh;
+  text-align: center;
+  padding-top: 20px;
+
+  &__para {
+    width: 70%;
+    margin: 20px auto 20px auto;
+  }
+
+  &__buttons{
+    width: 90%;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content:space-around;
+
+    img {
+      width: 70px;
+      height: 70px;
+    }
+
+    .about__cv {
+      height: 70px;
+      width: 60px;
+    }
+
+    .about__email {
+      width: 70px;
+      height: 70px;
+    }
+
+  }
+}

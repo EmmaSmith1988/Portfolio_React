@@ -1,0 +1,28 @@
+@use "../../assets/sass/_variables.scss" as *;
+
+.skills {
+  text-align: center;
+  &__flex {
+    display: flex;
+    flex-wrap: wrap;
+    width: 80%;
+    margin: 20px auto 40px auto;
+    justify-content: center;
+  }
+
+  &__logo {
+    height: 50px;
+    margin: 10px;
+  }
+  &__list {
+    width: 80%;
+    margin: auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+
+  &__item {
+    margin: 5px 30px;
+  } 
+}
