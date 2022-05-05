@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Portfolio_React/static/css/main.785f04ce.css",
+    "main.js": "/Portfolio_React/static/js/main.3d051536.js",
+    "static/js/787.aeca62f9.chunk.js": "/Portfolio_React/static/js/787.aeca62f9.chunk.js",
+    "static/media/profile.jpg": "/Portfolio_React/static/media/profile.ca010d66801721b8c8d2.jpg",
+    "static/media/game.png": "/Portfolio_React/static/media/game.92d00277dac08bdd114f.png",
+    "static/media/brewdogAPI.png": "/Portfolio_React/static/media/brewdogAPI.f6162d1ce64010dda07d.png",
+    "static/media/calc2.png": "/Portfolio_React/static/media/calc2.e74a6213efe9649e97ef.png",
+    "static/media/EmmaSmith_CV.pdf": "/Portfolio_React/static/media/EmmaSmith_CV.13e7b678db2c4451cbc5.pdf",
+    "static/media/nology_logo.svg": "/Portfolio_React/static/media/nology_logo.0a196f60da8af9f453bb5a49a22e37d1.svg",
+    "static/media/emaillogo.png": "/Portfolio_React/static/media/emaillogo.9a593d6471402599b8d6.png",
+    "index.html": "/Portfolio_React/index.html",
+    "static/media/hamburger_button.svg": "/Portfolio_React/static/media/hamburger_button.82da335a60f27fbc15ca12310b95b562.svg",
+    "static/media/page_separator.svg": "/Portfolio_React/static/media/page_separator.83b568ddb0be9c38aa391c9e69ccee17.svg",
+    "static/media/leftarrow.svg": "/Portfolio_React/static/media/leftarrow.3a420def06de336136b4a285776c779c.svg",
+    "static/media/rightarrow.svg": "/Portfolio_React/static/media/rightarrow.d5157566b1a303c5bfb5c137e0bd8e5f.svg",
+    "main.785f04ce.css.map": "/Portfolio_React/static/css/main.785f04ce.css.map",
+    "main.3d051536.js.map": "/Portfolio_React/static/js/main.3d051536.js.map",
+    "787.aeca62f9.chunk.js.map": "/Portfolio_React/static/js/787.aeca62f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.785f04ce.css",
+    "static/js/main.3d051536.js"
+  ]
+}
