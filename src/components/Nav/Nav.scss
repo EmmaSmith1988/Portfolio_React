@@ -5,9 +5,9 @@
   top: 0;
   display: flex;
   justify-content: space-between;
-  font-size: 20px;
+  font-size: 1.25rem;
   background-image: linear-gradient(to right, $gradient1 , $gradient2, $gradient3, $gradient4);
-  padding: 0px 20px;
+  padding: 0rem 1.25rem;
   align-items: center;
   &__links {
     display: none;
@@ -29,8 +29,9 @@
       display: none;
     }
     &__link {
-      margin: 0px 15px;
-      font-size: 18px;
+      margin: 0rem 1rem;
+      font-size: 1.2rem;
+      text-decoration: none;
     }
   }
 }
@@ -38,8 +39,8 @@
 @media screen and (min-width: 992px) {
   .nav {
     &__link {
-      margin: 0px 30px;
-      font-size: 20px;
+      margin: 0rem 1.9rem;
+      font-size: 1.25rem;
     }
   }
 }

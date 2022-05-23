@@ -14,7 +14,7 @@ const ExperienceList = () => {
     return job.experienceInfo;
   })
   return (
-    <div className='experienceList'>
+    <div id="experienceList" className='experienceList'>
       <PageSeparator text="Things I've done:"/>
       <Experience experienceImageArray={experienceImageArray} experienceInfoArray={experienceInfoArray} />
     </div>

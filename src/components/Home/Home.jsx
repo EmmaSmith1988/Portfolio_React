@@ -6,7 +6,7 @@ import './Home.scss'
 
 const Home = () => {
   return (
-    <div className='home'>
+    <div id="home" className='home'>
       <Nav name="Emma Smith" link1="Projects" link2="Experience" link3="Skills" link4="Contact"/>
       <Intro />
       <Main />

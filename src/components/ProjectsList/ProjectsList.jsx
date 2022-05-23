@@ -24,7 +24,7 @@ const ProjectsList = () => {
 
 
   return (
-    <div className='projectsList'>
+    <div id="projectsList" className='projectsList'>
       <PageSeparator text="Things I've made:"/>
       <Projects projectImagesArray={projectImagesArray} projectInfoArray={projectInfoArray} projectCodeArray={projectCodeArray} projectSiteArray={projectSiteArray} />
     </div>

@@ -10,7 +10,7 @@ import javascript_logo from '../../assets/images/jslogo.png'
 
 const Skills = () => {
   return (
-    <div className='skills'>
+    <div id="skills" className='skills'>
       <PageSeparator text="Skills I have learnt" />
       <p className="skills__para">These are some of the tech stacks I can use:</p>
       <div className="skills_flex">

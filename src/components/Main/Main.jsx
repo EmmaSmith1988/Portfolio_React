@@ -9,12 +9,12 @@ import ExperienceList from '../ExperienceList/ExperienceList'
 
 const Main = () => {
   return (
-    <div className='main'>
-      <ProjectsList />
+    <div  id="main" className='main'>
+      <ProjectsList/>
       <ExperienceList />
       <Skills />
       <About />
-      <Button buttonText="Back to top"/>
+      <Button buttonText="Back to top" link="#home"/>
     </div>
   )
 }

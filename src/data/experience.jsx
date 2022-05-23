@@ -1,4 +1,4 @@
-import nology from '../assets/images/nology_logo.svg'
+import nology from '../assets/images/nology2.png'
 import lloyds from '../assets/images/lloydslogo.png'
 import anixter from '../assets/images/anixter_logo.png'
 

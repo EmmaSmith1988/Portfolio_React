@@ -1,6 +1,7 @@
 @use "../../assets/sass/_variables.scss" as *;
 
 .project {
+  margin-bottom: 5rem;
   &__arrow {
     color: $color-primary;
     width: 3em;
@@ -11,18 +12,18 @@
   &__carousel {
     display: flex;
     align-items: center;
-    padding: 50px;
+    padding: 3.1rem;
     justify-content: center;
   }
   &__image {
     width: 20em;
-    border-radius: 15px;
+    border-radius: 1rem;
     box-shadow: 2px 2px 5px 2px gray;
-    margin: 0 20px;
+    margin: 0 1.25rem;
   }
   &__info {
-    margin: 30px auto;
+    margin: 1.8rem auto;
     width: 85%;
-    padding-bottom: 30px;
+    padding-bottom: 1.9rem;
   }
 }

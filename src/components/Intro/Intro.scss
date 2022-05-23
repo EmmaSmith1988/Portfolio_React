@@ -1,15 +1,15 @@
 @use "../../assets/sass/_variables.scss" as *;
 
 .intro {
-  height: 80vh;
+  height: 40rem;
   text-align: center;
-  padding: 80px 20px 0px 20px;
+  padding: 5rem 1.25rem 0rem 1.25rem;
   &__image {
-    height: 40%;
+    height: 15rem;
     // width: 35%;
     display: block;
     margin: auto;
-    border-radius: 30px;
+    border-radius: 2rem;
     box-shadow: 2px 2px 5px 2px gray;
   }
   &__button {
